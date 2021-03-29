@@ -1,2 +1,2 @@
 # MachineLearning
-Machine learning algortihm to predict job satisfaction level with the given public kaggle dataset.
+Machine learning algortihm to predict job satisfaction level with the given public kaggle dataset. As term poroject of the lecture Machine Learning. Program makes a prediction about the job satisfaction levels of the workers realated with the given dataset. <br /> Data set cleaning has been made to predict better and get higher success rate from the used algorithms. More can be found in the PowerPoint presentation of the project.
